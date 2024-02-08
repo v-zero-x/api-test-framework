@@ -1,0 +1,7 @@
+*.md
+Makefile
+*.pyc
+__pycache__/
+.git/
+Dockerfile
+*.log
