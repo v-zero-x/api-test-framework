@@ -55,8 +55,8 @@ Before you begin, ensure you have the following installed:
 To set up the project on your local machine:
 
 ```sh
-git clone https://github.com/yourrepository/flask-api-project.git
-cd flask-api-project
+git clone https://github.com/v-zero-x/api-test-framework.git
+cd api-test-framework
 ```
 
 ## Usage
